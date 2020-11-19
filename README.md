@@ -1,6 +1,8 @@
 # PandasPythonLibraryForBeginnersDataScience
 Coursera course: https://www.coursera.org/learn/pandas-python-library-beginners-data-science/
-Project Summary
+
+Project Summary:
+
 Throughout this guided project on "Pandas Python Library for Beginners in Data Science" , you have learned:
 
 Quantitative data is also called numeric data. Qualitative data is also called text data.
